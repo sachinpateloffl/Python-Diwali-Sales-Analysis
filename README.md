@@ -12,5 +12,8 @@ It involve data cleaning processing and removing the NA values from the given da
 
 From above graph we can see that most of the buyers are of age group between 26-35 years female.
 
+![Screenshot 2023-12-05 153435](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/d4cb38cb-bff1-46b5-a7b3-8377a3b5a13e)
+![Screenshot 2023-12-05 153344](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/06a0a718-e935-4bfa-a996-2504f27a437a)
 
+From above graphs we can see that most of the orders from Uttar Pradesh, Maharashtra, and Karnataka respectively.
 
