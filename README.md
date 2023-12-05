@@ -10,4 +10,7 @@ It involve data cleaning processing and removing the NA values from the given da
 ![Screenshot 2023-12-05 153058](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/9b64f93e-f06e-4814-bfdf-b5ff0c1778f0)
 ![Screenshot 2023-12-05 153026](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/d3ced991-77c6-4cd0-b893-3d69e28c6c5d)
 
-From the graph we can see thatmost of the buyers are female.
+From above graph we can see that most of the buyers are of age group between 26-35 years female.
+
+
+
