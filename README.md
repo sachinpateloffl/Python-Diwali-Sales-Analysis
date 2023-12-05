@@ -17,3 +17,7 @@ From above graph we can see that most of the buyers are of age group between 26-
 
 From above graphs we can see that most of the orders from Uttar Pradesh, Maharashtra, and Karnataka respectively.
 
+![Screenshot 2023-12-05 153716](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/7dc8dcd8-064c-453d-8963-170f5cb844ed)
+![Screenshot 2023-12-05 153745](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/b7c65247-44cd-4585-a9f7-b92e514b28b1)
+
+From above graph we can see that most of the buyers are married (women) and also they have high purchasing power
