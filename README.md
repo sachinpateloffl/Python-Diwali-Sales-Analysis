@@ -26,3 +26,12 @@ From above graph we can see that most of the buyers are married (women) and also
 ![Screenshot 2023-12-05 154025](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/ed8a0b7a-a390-45e1-9248-364f9d0b0bed)
 
 From above graph we can see that most of the buyers from IT, Healthcare and Aviation sector
+
+![Screenshot 2023-12-05 154239](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/14b103dd-7352-4ff2-bf73-96d7b2e55fd2)
+![Screenshot 2023-12-05 154312](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/e8eb2ccc-649e-4f89-8f31-92740025ad80)
+![Screenshot 2023-12-05 154331](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/d730d5d3-4e9d-4b65-812f-35aadc1c065c)
+
+Conclusion:
+Married women age group 26-35 from UP, Maharashtra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics Category
+
+
