@@ -21,3 +21,8 @@ From above graphs we can see that most of the orders from Uttar Pradesh, Maharas
 ![Screenshot 2023-12-05 153745](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/b7c65247-44cd-4585-a9f7-b92e514b28b1)
 
 From above graph we can see that most of the buyers are married (women) and also they have high purchasing power
+
+![Screenshot 2023-12-05 153947](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/7645c90c-bc29-4cbc-989b-20b49fa035d8)
+![Screenshot 2023-12-05 154025](https://github.com/sachinpateloffl/Python-Diwali-Sales-Analysis/assets/98209638/ed8a0b7a-a390-45e1-9248-364f9d0b0bed)
+
+From above graph we can see that most of the buyers from IT, Healthcare and Aviation sector
